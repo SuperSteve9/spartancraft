@@ -2,6 +2,6 @@ rd-132211
 rd-132328
 rd-160052
 rd-161348
-11a
-12a_03
-13a_03
+SpartanCraft 11a
+SpartanCraft 12a_03
+SpartanCraft 13a_03
