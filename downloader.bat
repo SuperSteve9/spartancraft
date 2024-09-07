@@ -1,7 +1,7 @@
-if %1==rd-132211 goto 132211
-if %1==rd-132328 goto 132328
-if %1==rd-160052 goto 160052
-if %1==rd-161348 goto 161348
+if %1=="rd-132211" goto 132211
+if %1=="rd-132328" goto 132328
+if %1=="rd-160052" goto 160052
+if %1=="rd-161348" goto 161348
 if %1=="SpartanCraft 11a" goto 11a
 
 
