@@ -1,5 +1,7 @@
 echo %1
 set version=%1
+echo %version%
+pause
 if %version%=="rd-132211" goto 132211
 if %version%=="rd-132328" goto 132328
 if %version%=="rd-160052" goto 160052
