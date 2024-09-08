@@ -1,14 +1,13 @@
-This is a test to see if the changelog loading mechanism works.
-
 NOTE: all world saves will be deleted when you the launcher is loaded,
 to prevent newer version saves being loaded in older versions. This will
 be fixed eventually.
   
 September 8th 2024
-  Added version: rd-132211
-                 rd-132328
-                 rd-160052
-                 rd-161348
-                 11a
-                 12a_03
-                 13a_03
+  Added versions: 
+    rd-132211
+    rd-132328
+    rd-160052
+    rd-161348
+    11a
+    12a_03
+    13a_03
