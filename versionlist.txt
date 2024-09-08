@@ -1,6 +1,6 @@
-SpartanCraft 13a_03
-SpartanCraft 12a_03
-SpartanCraft 11a
+13a_03
+12a_03
+11a
 rd-161348
 rd-160052
 rd-132328
