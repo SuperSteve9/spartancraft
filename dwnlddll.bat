@@ -1,9 +1,0 @@
-curl -OL https://github.com/SuperSteve9/spartancraft/raw/main/natives/OpenAL32.dll
-curl -OL https://github.com/SuperSteve9/spartancraft/raw/main/natives/OpenAL64.dll
-curl -OL https://github.com/SuperSteve9/spartancraft/raw/main/natives/lwjgl.dll
-curl -OL https://github.com/SuperSteve9/spartancraft/raw/main/natives/lwjgl64.dll
-curl -OL https://github.com/SuperSteve9/spartancraft/raw/main/natives/jinput-dx8.dll
-curl -OL https://github.com/SuperSteve9/spartancraft/raw/main/natives/jinput-dx8_64.dll
-curl -OL https://github.com/SuperSteve9/spartancraft/raw/main/natives/jinput-raw.dll
-curl -OL https://github.com/SuperSteve9/spartancraft/raw/main/natives/jinput-raw_64.dll
-curl -OL https://github.com/SuperSteve9/spartancraft/raw/main/natives/jinput-wintab.dll
