@@ -2,6 +2,9 @@ NOTE: all world saves will be deleted when you the launcher is loaded,
 to prevent newer version saves being loaded in older versions. This will
 be fixed eventually.
 
+Versions 1.0.2:
+removed 13a_03 and 14a_08 as canvas not made properly, will fix tomorrow
+
 Version 1.0.1:
 fixed error where directories with whitespaces would not be loaded correctly in lwjgl
 
