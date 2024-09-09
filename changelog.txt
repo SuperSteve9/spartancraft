@@ -2,6 +2,10 @@ NOTE: all world saves will be deleted when you the launcher is loaded,
 to prevent newer version saves being loaded in older versions. This will
 be fixed eventually.
 
+
+Version 1.0.3:
+Added 14a_08
+
 Version 1.0.2_1:
 Readded 13a_03
 
